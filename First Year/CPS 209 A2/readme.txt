@@ -1,0 +1,1 @@
+In the Vehicle class the trailer var is in the Node class.
